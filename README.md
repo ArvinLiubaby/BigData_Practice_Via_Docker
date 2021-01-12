@@ -10,7 +10,7 @@
 
 在收集、实验、总结了各方资料的基础上，现借助Docker一键搭建大数据开发环境，相当简单，可以极大的提高学习的便利性，希望对大家有帮助。
 
-git地址：
+git地址： https://github.com/ArvinLiubaby/BigData_Practice_Via_Docker
 
 
 
