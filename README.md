@@ -70,7 +70,7 @@ docker exec -it b002969ab690 bash
 beeline -u jdbc:hive2://localhost:10000
 ```
 
-![image-20210104160722380](C:\Users\l30009462\AppData\Roaming\Typora\typora-user-images\image-20210104160722380.png)
+
 
 至此已经进入Hive环境，可以自行尝试hive的语句。
 
